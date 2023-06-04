@@ -1,0 +1,18 @@
+C:\Users\Campi\source\repos\15.8 Login User Control\15.8 Login User Control\bin\Debug\net6.0-windows\15.8 Login User Control.exe
+C:\Users\Campi\source\repos\15.8 Login User Control\15.8 Login User Control\bin\Debug\net6.0-windows\15.8 Login User Control.deps.json
+C:\Users\Campi\source\repos\15.8 Login User Control\15.8 Login User Control\bin\Debug\net6.0-windows\15.8 Login User Control.runtimeconfig.json
+C:\Users\Campi\source\repos\15.8 Login User Control\15.8 Login User Control\bin\Debug\net6.0-windows\15.8 Login User Control.dll
+C:\Users\Campi\source\repos\15.8 Login User Control\15.8 Login User Control\bin\Debug\net6.0-windows\15.8 Login User Control.pdb
+C:\Users\Campi\source\repos\15.8 Login User Control\15.8 Login User Control\obj\Debug\net6.0-windows\15.8 Login User Control.csproj.AssemblyReference.cache
+C:\Users\Campi\source\repos\15.8 Login User Control\15.8 Login User Control\obj\Debug\net6.0-windows\_15._8_Login_User_Control.Form1.resources
+C:\Users\Campi\source\repos\15.8 Login User Control\15.8 Login User Control\obj\Debug\net6.0-windows\_15._8_Login_User_Control.LoginPasswordUserControl.resources
+C:\Users\Campi\source\repos\15.8 Login User Control\15.8 Login User Control\obj\Debug\net6.0-windows\15.8 Login User Control.csproj.GenerateResource.cache
+C:\Users\Campi\source\repos\15.8 Login User Control\15.8 Login User Control\obj\Debug\net6.0-windows\15.8 Login User Control.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Campi\source\repos\15.8 Login User Control\15.8 Login User Control\obj\Debug\net6.0-windows\15.8 Login User Control.AssemblyInfoInputs.cache
+C:\Users\Campi\source\repos\15.8 Login User Control\15.8 Login User Control\obj\Debug\net6.0-windows\15.8 Login User Control.AssemblyInfo.cs
+C:\Users\Campi\source\repos\15.8 Login User Control\15.8 Login User Control\obj\Debug\net6.0-windows\15.8 Login User Control.csproj.CoreCompileInputs.cache
+C:\Users\Campi\source\repos\15.8 Login User Control\15.8 Login User Control\obj\Debug\net6.0-windows\15.8 Login User Control.dll
+C:\Users\Campi\source\repos\15.8 Login User Control\15.8 Login User Control\obj\Debug\net6.0-windows\refint\15.8 Login User Control.dll
+C:\Users\Campi\source\repos\15.8 Login User Control\15.8 Login User Control\obj\Debug\net6.0-windows\15.8 Login User Control.pdb
+C:\Users\Campi\source\repos\15.8 Login User Control\15.8 Login User Control\obj\Debug\net6.0-windows\15.8 Login User Control.genruntimeconfig.cache
+C:\Users\Campi\source\repos\15.8 Login User Control\15.8 Login User Control\obj\Debug\net6.0-windows\ref\15.8 Login User Control.dll
